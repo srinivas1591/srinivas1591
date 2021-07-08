@@ -1,5 +1,4 @@
 ### Hi there 👋
-Hi there 👋
 
 I am Devi Srinivas Vasamsetti. My main interest lies in Web Development and Mobile Application Development. I also have basic knowledge of Ui/Ux. I am always curious to learn something new.
 
