@@ -8,6 +8,6 @@ I am Devi Srinivas Vasamsetti. My main interest lies in Web Development and Mobi
 - 👯 I’m looking to collaborate on any Full Stack _Web Development Projects_...
 - 🤔 I’m looking for help with React Js
 - 💬 Ask me about **MySQL,PHP**
-- 📫 How to reach me: Contact me directly on this [mail](devisrinivas.vasamsetti@gmail.com)
+- 📫 How to reach me: Contact me directly on this [mail](https://devisrinivas.vasamsetti@gmail.com)
 - 😄 Pronouns: You can give one
 - ⚡ Fun fact: I'm Memer too
