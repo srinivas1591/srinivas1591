@@ -1,13 +1,19 @@
-### Hi there 👋
+Hi, I'm Devi Srinivas Vasamsetti 👋
+I am a Full-Stack Web Developer with 3 years of experience specializing in PHP, MySQL, Vue.js, React Native, MongoDB, AWS, and Laravel. I have a strong foundation in building scalable web applications, optimizing backend performance, and designing efficient database architectures.
 
-I am Devi Srinivas Vasamsetti. My main interest lies in Web Development and Mobile Application Development. I also have basic knowledge of Ui/Ux. I am always curious to learn something new.
+🚀 What I Do:
+Web Development: Creating high-performance, scalable, and secure applications.
+Mobile App Development: Experience with React Native for cross-platform apps.
+Database Management: Designing optimized MongoDB and MySQL schemas.
+Cloud & DevOps: Deploying and managing applications on AWS.
 
+💡 Currently:
+Building: Working as a full time employee in RecruitCRM.
+Learning: AWS Cloud practioneer.
+Exploring: Spring boot.
+🤝 Open to Collaboration:
+I’m always looking to work on challenging Full-Stack Web Development projects that push boundaries and solve real-world problems.
 
-- 🔭 I’m currently working on Eportal Questionnaire(Web Site)
-- 🌱 I’m currently learning **Web Development And NLP by DevIncept**
-- 👯 I’m looking to collaborate on any Full Stack _Web Development Projects_...
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about **MySQL,PHP,React Js**
-- 📫 How to reach me: Contact me directly on this [mail](https://devisrinivas.vasamsetti@gmail.com)
-- 😄 Pronouns: You can give one
-- ⚡ Fun fact: I'm Memer too
+📬 Get in Touch:
+📧 Email: devisrinivas.vasamsetti@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/srinivas1591/
